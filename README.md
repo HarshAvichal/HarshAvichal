@@ -22,7 +22,7 @@ I’m a software developer with a strong foundation in full-stack engineering, c
 ---
 
 ### 🛠️ Tech Stack
-
+```yaml
 Languages:       JavaScript, TypeScript, Python, C++, SQL, Bash  
 Frontend:        React.js, Next.js, Tailwind CSS, Material-UI, Redux  
 Backend:         Node.js, Express.js, MongoDB, PostgreSQL, Redis  
@@ -76,3 +76,4 @@ Production-ready cloud infrastructure setup for an e-commerce platform using mod
 - 🔗 [GitHub](https://github.com/HarshAvichal/EasyShop-Cloud-Infra-Deployment)
 
 ---
+```
