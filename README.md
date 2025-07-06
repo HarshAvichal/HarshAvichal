@@ -35,7 +35,7 @@ Other:           Linux, NGINX, Cert Manager, REST APIs
 
 ### 🚀 Featured Projects
 
-#### 🎟️ [EventEase](https://eventeasein.vercel.app)
+#### 🎟️ [EventEase](https://event-ease-in.vercel.app)
 A full-stack event management platform built for seamless coordination between event organizers and participants.
 
 - 🎯 Role-based dashboards for organizers and attendees
@@ -67,13 +67,3 @@ A responsive portfolio website designed for a local consultancy firm to moderniz
 
 ---
 
-#### ☁️ [EasyShop – Cloud Infra Deployment](https://github.com/HarshAvichal/EasyShop-Cloud-Infra-Deployment)
-Production-ready cloud infrastructure setup for an e-commerce platform using modern DevOps tooling and GitOps practices.
-
-- ⚙️ Deployed on AWS EKS using Terraform, Jenkins, ArgoCD
-- 🔐 Secured traffic with NGINX Ingress + Cert Manager (TLS)
-- 🚀 CI/CD pipeline auto-triggers via GitHub for fast delivery
-- 🌐 **Stack:** Next.js, Terraform, Kubernetes, Jenkins, ArgoCD, AWS
-- 🔗 [GitHub](https://github.com/HarshAvichal/EasyShop-Cloud-Infra-Deployment)
-
----
