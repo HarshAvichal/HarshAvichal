@@ -29,6 +29,7 @@ Backend:         Node.js, Express.js, MongoDB, PostgreSQL, Redis
 DevOps/Cloud:    Docker, Kubernetes, Terraform, Jenkins, ArgoCD, AWS (EC2, S3, EKS), Azure  
 CI/CD & Tools:   GitHub Actions, Helm, Git, Ansible, SonarQube, Prometheus, Grafana  
 Other:           Linux, NGINX, Cert Manager, REST APIs
+```
 
 ---
 
@@ -76,4 +77,3 @@ Production-ready cloud infrastructure setup for an e-commerce platform using mod
 - 🔗 [GitHub](https://github.com/HarshAvichal/EasyShop-Cloud-Infra-Deployment)
 
 ---
-```
