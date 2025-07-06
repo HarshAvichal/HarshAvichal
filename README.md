@@ -5,7 +5,7 @@
   <a href="https://harsh-avichal.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-harsh--avichal.vercel.app-blue?style=for-the-badge&logo=vercel">
   </a>
-  <a href="https://linkedin.com/in/harshavichal" target="_blank">
+  <a href="https://linkedin.com/in/harshavichal0614" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-HarshAvichal-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:talktoharshavichal@gmail.com">
