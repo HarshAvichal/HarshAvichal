@@ -67,3 +67,20 @@ A responsive portfolio website designed for a local consultancy firm to moderniz
 
 ---
 
+### 💼 Experience
+
+**Software Engineer Intern** — *iTeam Technologies*  
+📍 Anand, India &nbsp;&nbsp; 🗓️ Jan 2024 – May 2024  
+- Developed backend APIs for internal logistics system using Node.js and Express  
+- Deployed microservices on AWS EKS using Helm, ensuring scalable rollout  
+- Automated infrastructure with Terraform and Jenkins CI/CD (reduced release time by 60%)
+
+**Software Engineer Intern** — *Kareer Studios*  
+📍 Remote &nbsp;&nbsp; 🗓️ May 2023 – Sept 2023  
+- Built a role-based career counseling platform with dashboards for Admins, Counselors, Students  
+- Integrated an ML-based recommendation engine using sklearn  
+- Supported workflows for 5+ countries with improved task efficiency by 40%
+
+---
+
+
