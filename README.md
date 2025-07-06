@@ -90,3 +90,11 @@ A responsive portfolio website designed for a local consultancy firm to moderniz
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshAvichal&theme=react" width="400" />
 </p>
 
+---
+
+### 📬 Let's Connect
+
+I'm actively looking for software engineering internships and collaboration opportunities.
+
+📩 Drop me a message on [LinkedIn](https://linkedin.com/in/harshavichal0614) or [email](mailto:talktoharshavichal@gmail.com) — I'm always up for meaningful tech conversations.
+
