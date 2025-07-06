@@ -83,4 +83,10 @@ A responsive portfolio website designed for a local consultancy firm to moderniz
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshAvichal&show_icons=true&theme=react" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshAvichal&theme=react" width="400" />
+</p>
 
